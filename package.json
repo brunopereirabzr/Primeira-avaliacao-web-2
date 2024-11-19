@@ -1,0 +1,20 @@
+{
+  "name": "primeira-avaliacao-web-2",
+  "version": "1.0.0",
+  "description": "Primeira prova",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunopereirabzr/Primeira-avaliacao-web-2.git"
+  },
+  "author": "Bruno Pereira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunopereirabzr/Primeira-avaliacao-web-2/issues"
+  },
+  "homepage": "https://github.com/brunopereirabzr/Primeira-avaliacao-web-2#readme"
+}
